@@ -1,8 +1,16 @@
 .botao{
     background-color: rgb(255, 185, 208);
-    padding-bottom: 20px;
+    padding: 20px;
     font-size:x-large;
     font-weight: 800;
     border-radius: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    
 
+}
+
+.titulo{
+    margin: 0 0 50px 0;
+    color: rgb(0, 0, 0);
 }
