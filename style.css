@@ -1,3 +1,9 @@
+body{
+    background-image: url("ROSA.jpeg");
+    background-size: 100%;
+    text-align: center;
+}
+
 .botao{
     background-color: rgb(255, 185, 208);
     padding: 20px;
